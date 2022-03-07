@@ -10,7 +10,7 @@
 ---
 OSI model is a layered server architecture system in which each layer is defined according to a specific function to perform. All these seven layers work to transmit the data from one computer to another.
 
-![](/home/ayushi_mathur/Ayushi_Imp_files/OSI-Model1_Done.jpg)
+![](OSI-Model1_Done.jpg)
 
 <p>
 </p>
@@ -31,7 +31,7 @@ There are 7 layers in this model, which helps in a safe and succesful transmisss
 <p> The lower layers ( Physical, Data link layer, Network ) deal with electrical signals, chunks of binary data, and routing of these data across networks. Higher levels ( Transport, Session, Presentation, Application ) cover network requests and responses, representation of data, and network protocols, as seen from a user's point of view.  
 </p>
 
-# image
+![](osi-model.gif)
 
 ## **Physical layer**
 <p> Physical layer is the lowest layer of OSI model and it is responsible for the physical cable or wireless connection between network nodes. It defines the connector ( laser cable ), the electrical cable or wireless technology connecting the devices.it also deals with the functions and procedures require for the transmission.it takes care of </p>
