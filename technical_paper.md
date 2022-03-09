@@ -2,7 +2,7 @@
 # **OSI model layer**
 ## **Abstract**
 ---
-### <p> ISO was one of the first oraganisations to formally define a good way to connect comoputers. OSI was introduced in 1983 by representatives of the major computer and telecom companies, and was adopted by ISO ( International Standard Organisation ) as an international standard in 1984. it is a widely used model for networking. The modern Internet is not based on OSI, but on the simpler TCP/IP model. However, the OSI 7-layer model is still widely used, as it helps visualize and communicate how networks operate, and helps isolate and troubleshoot networking problems. </p>
+<p> ISO was one of the first oraganisations to formally define a good way to connect comoputers. OSI was introduced in 1983 by representatives of the major computer and telecom companies, and was adopted by ISO ( International Standard Organisation ) as an international standard in 1984. it is a widely used model for networking. The modern Internet is not based on OSI, but on the simpler TCP/IP model. However, the OSI 7-layer model is still widely used, as it helps visualize and communicate how networks operate, and helps isolate and troubleshoot networking problems. </p>
 
 
 
